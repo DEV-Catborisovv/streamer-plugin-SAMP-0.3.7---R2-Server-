@@ -1,0 +1,1 @@
+# streamer-plugin-SAMP-0.3.7---R2-Server-
